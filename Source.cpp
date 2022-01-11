@@ -1,4 +1,4 @@
-#include <math.h>
+//#include <math.h>
 #include <iostream>
 #include <conio.h>
 #include <iomanip>
@@ -73,7 +73,7 @@ int main()
 		} while (flag == 1);
 		if (number == 0)
 		{
-			cout << "Error! Minimum value in the first place!" << endl;
+			cout << "Error! Minimum value is in the first place!" << endl;
 		}
 		else
 		{
